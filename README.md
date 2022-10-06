@@ -46,6 +46,7 @@ Auxiliar Administrativa.
 * PHP.
 * C#.
 * Python.
+* GoLang.
 
 ### Banco de Dados
 * MySQL.
