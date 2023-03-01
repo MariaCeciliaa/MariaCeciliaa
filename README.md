@@ -57,4 +57,6 @@ Auxiliar Administrativa.
 
 ## Redes Sociais
 *  [Linkedin](https://www.linkedin.com/in/maria-cecilia-molonha-99646a1ba/)
+<br/><br/>
 
+![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaceciliaa&show_icons=true&theme=radical)
