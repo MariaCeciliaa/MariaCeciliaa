@@ -5,7 +5,7 @@ Trainee TI - Tata Consultancy Service | Estudante de Engenharia de Software
 :iphone:   (43) 98805 - 5952 <br>
 :envelope:  mariaceciliamolonha@gmail.com
 
-Meu nome é Maria Cecilia e comecei a me interessar pela área tecnologica enquanto estudava, fui pesquisando e descobrindo as várias funcionalidade que podem existir em uma aplicação ou em uma máquina, assim tendo o interesse de aprender como o mundo tecnológico funcionava.
+Meu nome é Cecilia e sou estudande da área da computação que tem muito interesse em aprender cada vez mais sobre a área da tecnologia, sempre procurando entender todos os desafios que são propostos. As últimas áreas que tive contato foram com desenvolvimento back-end em c# e documentação de apis em markdown e html no github pages.
 
 ## Formação :books:
 Cursando Engenharia de Software - UNIFIL
@@ -27,11 +27,6 @@ Auxiliar Administrativa.
   
 
 ## Conhecimentos :computer:
-
-#### Gerais
-* Lógica de Programação.
-* Inglês Intermediário.
-* Banco de Dados.
 
 #### Sistemas Operacionais
 * Windows
