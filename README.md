@@ -5,7 +5,7 @@ Trainee TI - Tata Consultancy Service | Estudante de Engenharia de Software
 :iphone:   (43) 98805 - 5952 <br>
 :envelope:  mariaceciliamolonha@gmail.com
 
-Meu nome é Cecilia e sou estudande da área da computação que tem muito interesse em aprender cada vez mais sobre a área da tecnologia, sempre procurando entender todos os desafios que são propostos. As últimas áreas que tive contato foram com desenvolvimento back-end em c# e php e java, documentação de apis em markdown e html no github pages, dashboards no splunk, front-end utilizando html, css e angular.
+Meu nome é Cecilia e sou estudande da área da computação que tem muito interesse em aprender cada vez mais sobre a área da tecnologia, sempre procurando entender todos os desafios que são propostos. As últimas áreas que tive contato foram com desenvolvimento back-end em c# e php e java, documentação de apis em markdown e html no github pages, dashboards no splunk, front-end utilizando html, css, angular, vue.js e vuetify.
 
 ## Formação :books:
 Cursando Engenharia de Software - UNIFIL
