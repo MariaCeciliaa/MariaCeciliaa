@@ -9,7 +9,12 @@ Meu nome é Cecilia e sou estudande da área da computação que tem muito inter
 Cursando Engenharia de Software - UNIFIL
 
 ## Experência Profissional :office:
-* (2022/07 -  Atual) <br>
+
+* (2023/07 -  Atual) <br>
+**Tata Consultancy Service - TCS** -
+Analista Desenvolvedor Junior.
+
+* (2022/07 -  2023/07) <br>
 **Tata Consultancy Service - TCS** -
 Trainee TI.
 
