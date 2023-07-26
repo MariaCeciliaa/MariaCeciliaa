@@ -3,22 +3,6 @@ Analista Desenvolvedor Junior | Estudante de Engenharia de Software
 
 :envelope:  mariaceciliamolonha@gmail.com
 
-## Conhecimentos :computer:
-
-#### Front-end
-* HTML.
-  * Markdown.
-* CSS.
-  * Vuetify
-* Vue.js
-* Angular
-
-#### Linguagens de Programação
-* Java, PHP, C#, Python, GoLang.
-
-#### Banco de Dados
-* MySQL, OracleSQL.
-
 ## Redes Sociais :iphone:
 *  [Linkedin](https://www.linkedin.com/in/maria-cecilia-molonha-99646a1ba/)
 <br/><br/>
