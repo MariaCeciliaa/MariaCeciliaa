@@ -14,7 +14,7 @@ Analista Desenvolvedor Junior | Estudante de Engenharia de Software
 * Vue.js
 * Angular
 
-#### Linguagens de Programação
+#### Back-end
 * Java, PHP, C#, Python, GoLang.
 
 #### Banco de Dados
