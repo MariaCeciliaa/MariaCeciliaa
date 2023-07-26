@@ -3,9 +3,6 @@ Analista Desenvolvedor Junior | Estudante de Engenharia de Software
 
 :envelope:  mariaceciliamolonha@gmail.com
 
-## Redes Sociais :iphone:
-*  [Linkedin](https://www.linkedin.com/in/maria-cecilia-molonha-99646a1ba/)
-<br/><br/>
 
 ## GitHub Stats
 
