@@ -1,5 +1,5 @@
 # Maria Cecilia Molonha :woman:
-Trainee TI - Tata Consultancy Service | Estudante de Engenharia de Software
+Analista Desenvolvedor Junior | Estudante de Engenharia de Software
 
 :envelope:  mariaceciliamolonha@gmail.com
 
@@ -44,9 +44,6 @@ Auxiliar Administrativa.
 
 #### Banco de Dados
 * MySQL, OracleSQL.
-
-#### Sistemas de controle de versão
-* Git.
 
 ## Redes Sociais :iphone:
 *  [Linkedin](https://www.linkedin.com/in/maria-cecilia-molonha-99646a1ba/)
