@@ -18,7 +18,7 @@ Analista Desenvolvedor Junior | Estudante de Engenharia de Software
 * Java, PHP, C#, Python, GoLang.
 
 #### Banco de Dados
-* MySQL, OracleSQL.
+* MySQL, PostgreSQL, OracleSQL.
 
 ## Redes Sociais :iphone:
 *  [Linkedin](https://www.linkedin.com/in/maria-cecilia-molonha-99646a1ba/)
