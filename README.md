@@ -1,5 +1,5 @@
 # Maria Cecilia Molonha
-Analista Desenvolvedor Junior | Estudante de Engenharia de Software
+Analista Desenvolvedor Junior 
 
 :envelope:  mariaceciliamolonha@gmail.com
 
